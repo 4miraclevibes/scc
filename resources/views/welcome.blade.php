@@ -68,7 +68,7 @@
         <a href="https://wa.me/6282173093009" class="social-button whatsapp" target="_blank">
             <i class="fab fa-whatsapp"></i>
         </a>
-        <a href="https://instagram.com/saucychic.id" class="social-button instagram" target="_blank">
+        <a href="https://instagram.com/saucychicindonesia" class="social-button instagram" target="_blank">
             <i class="fab fa-instagram"></i>
         </a>
     </div>
